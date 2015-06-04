@@ -8,4 +8,4 @@ run : Hello.class
 build : Hello.java
 	javac Hello.java
 clean : 
-	del C:\Users\User\Documents\NewTestGit\team14\0-helloex\*.class
+	del *.class
